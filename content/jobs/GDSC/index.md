@@ -2,11 +2,11 @@
 date: '2024-08-01'
 title: 'Graphic Design Lead'
 company: 'GDSC BITW'
-range: 'Aug 2023 - Present'
+range: 'Aug 2023 - July 2024'
 url: 'https://www.instagram.com/gdsc.bitw/'
 ---
 
-- Google Developer Student Clubs RCOEM
+- Google Developer Student Clubs BITW
 
 - Responsible for organizing events in my campus to enhance the tech culture
 
