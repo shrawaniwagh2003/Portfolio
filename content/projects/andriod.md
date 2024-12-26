@@ -7,7 +7,7 @@ tech:
   - React
   - Tailwind CSS
   - firebase
-company: ''
+company: 'Personal'
 showInProjects: true
 ---
 Created a real-time chat app using React and Firebase. Features include real-time messaging and user authentication with Firebase, ensuring secure and seamless communication.

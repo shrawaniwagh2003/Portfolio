@@ -9,7 +9,7 @@ tech:
   - HTML
   - Tailwind CSS
   - Flask
-company: ''
+company: 'Personal'
 showInProjects: true
 ---
 Developed a sentiment analysis application using Python and Flask. Implemented text analysis to determine the sentiment of user input. Utilized JavaScript for dynamic front-end interactions and Tailwind CSS for styling.

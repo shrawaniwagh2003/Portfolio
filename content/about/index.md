@@ -16,8 +16,8 @@ skills:
   - Next.js
 ---
 
-Hello! I am Shrawani Wagh, a UIUX Designer and a Web Developer who's day revolves around designing & developing stuff and around Technical Communities.
+Hello! I am Shrawani Wagh, a Web Developer with a passion for building innovative solutions and exploring new technologies. My days are filled with designing, developing, and engaging with technical communities.
 
-I started exploring various things apart from my college curriculum since my 1st year and presently working on various projects and learning new & latest technologies to build & design something innovative.
+Since my first year of college, I’ve been expanding my knowledge beyond the curriculum and currently working on various projects while learning the latest technologies.
 
 Here is a list of few skills & technologies that I'm familiar with and working on!
